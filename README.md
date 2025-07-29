@@ -142,15 +142,6 @@ curl -X POST http://localhost:3000/eligibility \
         "benefitStatus": "active"
       }
     ],
-    "summary": {
-      "totalBenefits": 1,
-      "activeBenefits": 1,
-      "eligibleServices": ["1", "98"]
-    },
-    "cacheMetadata": {
-      "cached": false,
-      "source": "optum-api"
-    }
   },
   "correlationId": "test-123",
   "duration": "1250ms",
