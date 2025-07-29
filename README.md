@@ -1,6 +1,6 @@
 # Optum Eligibility API POC
 
-A proof of concept for integrating with Optum's healthcare eligibility APIs. This POC includes best practices for API integration including authentication, caching, retry logic, circuit breakers, and comprehensive observability.
+A proof of concept for integrating with Optum's healthcare eligibility APIs. This POC includes good practices for API integration including authentication, caching, retry logic, circuit breakers, and comprehensive observability.
 
 ## 🏗️ Architecture Overview
 
@@ -33,7 +33,7 @@ This POC creates a **REST API service** that acts as a proxy to Optum's eligibil
 
 ```bash
 git clone <repository-url>
-cd optum-eligibility-poc
+cd optum-poc
 npm install
 ```
 
