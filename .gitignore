@@ -49,3 +49,6 @@ Thumbs.db
 # Temporary files
 tmp/
 temp/
+docs/optum-prior-auth-inquiry-detailed.md
+docs/optum-prior-auth-submission-detailed.md
+docs/optum-prior-authorization-guide.md
